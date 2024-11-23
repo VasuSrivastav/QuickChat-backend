@@ -8,6 +8,6 @@ const corsOptions = {
   credentials: true,
 };
 
-const QUICKCHAT_TOKEN = "QUICKCHAT-token";
+const QUICKCHAT_TOKEN = "quickchat-token";
 
 export { corsOptions, QUICKCHAT_TOKEN };
